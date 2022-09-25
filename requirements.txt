@@ -1,0 +1,9 @@
+opencv-python
+pytesseract
+matplotlib
+spacy
+pandas
+geopandas
+geopy
+google-cloud-vision
+
