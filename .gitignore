@@ -127,3 +127,13 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+
+# Data directories
+sample_100/
+corrected_images/
+outputs/
+
+# API credentials 
+ServiceAccountAPIToken.json
+
+# others
